@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp_Caculator", "ConsoleApp_Caculator\ConsoleApp_Caculator.csproj", "{684909EB-409D-4E4F-854C-E913694DFAE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp_Caculator", "WindowsFormsApp_Caculator\WindowsFormsApp_Caculator.csproj", "{FAD94D39-41FC-4899-983A-7F86E599BED5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{684909EB-409D-4E4F-854C-E913694DFAE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{684909EB-409D-4E4F-854C-E913694DFAE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{684909EB-409D-4E4F-854C-E913694DFAE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{684909EB-409D-4E4F-854C-E913694DFAE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAD94D39-41FC-4899-983A-7F86E599BED5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAD94D39-41FC-4899-983A-7F86E599BED5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAD94D39-41FC-4899-983A-7F86E599BED5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAD94D39-41FC-4899-983A-7F86E599BED5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A3828F8-CCFD-47CB-A7C5-31E9749C1B6D}
+	EndGlobalSection
+EndGlobal
